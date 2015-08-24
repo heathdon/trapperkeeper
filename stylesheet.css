@@ -1,0 +1,92 @@
+
+
+body {
+	font: 14px Helvetica, Sans-Serif;
+}
+
+.container {
+	margin: 10px;
+}
+
+.container h1 {
+  color: #000;
+  font-size: 22px;  
+  font-family: 'Shift', sans-serif;
+  font-weight: bold;
+  padding: 14px;
+  margin: auto 60px;
+}
+
+.container h2 {
+  color: #000;
+  font-size: 18px;  
+  font-family: 'Shift', sans-serif;
+  font-weight: bold;
+  padding: 14px;
+  margin: auto 60px;
+  border-top: 20px solid #fff;
+}
+
+.container h3 {
+  color: #000;
+  font-size: 14px;  
+  font-family: 'Shift', sans-serif;
+  font-weight: bold;
+  padding: 14px;
+  margin: auto 60px;
+  border-bottom: 1px solid #999;
+  border-top: 30px solid #fff;
+  line-height: 20px;
+}
+
+.container h4 {
+  color: #000;
+  font-size: 14px;  
+  font-family: 'Shift', sans-serif;
+  font-weight: bold;
+  font-style: italic;
+  padding: 14px;
+  margin: auto 60px;
+}
+
+.container ul {
+  color: #000;
+  font-size: 14px;  
+  font-family: 'Shift', sans-serif;
+  margin: auto 60px;
+}
+
+.container li {
+  color: #000;
+  font-size: 14px;  
+  font-family: 'Shift', sans-serif;
+  padding: 4px;
+}
+
+.container block-content {
+  color: #000;
+  font-size: 14px;  
+  font-family: 'Shift', sans-serif;
+  padding: 4px;
+  margin: auto 60px;
+  text-decoration: none;
+}
+ 
+ .date {
+	float: right;
+	padding: 14px;
+	margin: auto 60px;
+}
+
+a:link {
+    text-decoration: none;
+    color: #000000;
+}
+  
+
+
+
+
+
+
+ 
